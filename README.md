@@ -6,7 +6,7 @@ Built as an official software entry for the **Hack Club Stardance Challenge** un
 
 ---
 
-## 🔬 How It Works (The Engineering Logic)
+## How It Works (The Engineering Logic)
 
 Calculating orbital mechanics using raw SI units (meters and kilograms) introduces massive scaling distortions. For example, the Sun is $10^{30}\text{ kg}$ while the Earth is $10^{24}\text{ kg}$, separated by 150 billion meters. Attempting to render these raw coordinates causes text labels to smash together and planet graphics to compress into invisible sub-pixels.
 
