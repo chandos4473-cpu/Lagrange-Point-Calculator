@@ -1,7 +1,7 @@
 # Dynamic Lagrange Point Coordinate Visualizer
 
 Try it!
-[![Streamlit App](https://streamlit.io)](https://streamlit.app)
+[[![Streamlit App](https://streamlit.io)](https://streamlit.app)](https://lagrange-point-calculator-gbfs4b5zbyrxhsgne6lucf.streamlit.app/)
 
 An interactive orbital mechanics simulator and visualization dashboard built using **Python 3.9**, **Streamlit**, and **Matplotlib**. This application dynamically computes and vectors the 2D coordinate positions ($L_1$ through $L_5$) for multi-body celestial systems using dimensionless, normalized spatial rules.
 
